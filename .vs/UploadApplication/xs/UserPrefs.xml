@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{AF1CE251-2D0E-47A7-9F01-91B9CAA06F2D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/FileController.cs">
+    <Files>
+      <File FileName="appsettings.json" Line="17" Column="39" />
+      <File FileName="Controllers/FileController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UploadApplication" expanded="True">
+            <Node name="UploadApplication" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="FileController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.UploadApplication PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
